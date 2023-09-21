@@ -1,2 +1,2 @@
-# JavaScrip
+# JavaScript
 JavaScrip desde cero
