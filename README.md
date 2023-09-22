@@ -1,2 +1,2 @@
 # JavaScript
-JavaScrip desde cero
+JavaScript desde cero
